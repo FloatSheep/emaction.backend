@@ -6,8 +6,8 @@ env = { }
 
 [[d1_databases]]
 binding = "d1" # i.e. available in your Worker on env.DB
-database_name = "emaction"
-database_id = "34652bf0-91e5-470d-bbf3-c9c8ac0e147e"
+database_name = "everyone-should-emo"
+database_id = "90c783ed-5d24-427d-8401-ae4a8ad971f6"
 
 [triggers]
 crons = [ ]
